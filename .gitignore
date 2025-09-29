@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# AWS credentials (just in case you create)
+.aws/
+
+# Data files
+*.csv
+*.json
+*.parquet
+*.db
